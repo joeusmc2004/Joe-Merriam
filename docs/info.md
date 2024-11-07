@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+We use the OR gate to generate the letter J on the seven segment LED.
 
 ## How to test
 
