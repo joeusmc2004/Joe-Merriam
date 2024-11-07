@@ -1,4 +1,4 @@
-e# Tiny Tapeout project information (Wokwi project)
+# Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     413919465666386945       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "OR gate"      # Project title
