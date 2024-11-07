@@ -13,7 +13,7 @@ We use the OR gate to generate the letter J on the seven segment LED.
 
 ## How to test
 
-Explain how to use your project
+Flip the switches to generate the letter J
 
 ## External hardware
 
